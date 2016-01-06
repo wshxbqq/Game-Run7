@@ -1,0 +1,465 @@
+{
+  "ID": "a485d7c1-5c42-4fec-8405-42af0a8b71b8",
+  "Version": "2.2.6.0",
+  "Name": "LayerCfgPanel1",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 31,
+        "Children": [
+          {
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 32,
+            "Children": [
+              {
+                "FontSize": 28,
+                "ButtonText": "Ranking",
+                "TextColor": {},
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "R/Global/MainScenceBtn_3.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 320,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 319.9988,
+                  "Y": 670.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5898
+                },
+                "PreSize": {
+                  "X": 0.5469,
+                  "Y": 0.0704
+                },
+                "LeftMargin": 144.9988,
+                "RightMargin": 145.0012,
+                "TopMargin": 426.0,
+                "BottomMargin": 630.0,
+                "Tag": 35,
+                "ActionTag": -1211512085,
+                "Size": {
+                  "X": 350.0,
+                  "Y": 80.0
+                },
+                "Name": "Button_Ranking",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 28,
+                "ButtonText": "Share",
+                "TextColor": {},
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "R/Global/MainScenceBtn_4.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 320,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 319.9994,
+                  "Y": 470.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4137
+                },
+                "PreSize": {
+                  "X": 0.5469,
+                  "Y": 0.0704
+                },
+                "LeftMargin": 144.9994,
+                "RightMargin": 145.0006,
+                "TopMargin": 626.0,
+                "BottomMargin": 430.0,
+                "Tag": 36,
+                "ActionTag": 1365583406,
+                "Size": {
+                  "X": 350.0,
+                  "Y": 80.0
+                },
+                "Name": "Button_Share",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "CheckedState": true,
+                "NormalBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Normal.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Press.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Disable.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Normal.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Disable.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 420.0131,
+                  "Y": 308.0703
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6563,
+                  "Y": 0.2712
+                },
+                "PreSize": {
+                  "X": 0.125,
+                  "Y": 0.0704
+                },
+                "LeftMargin": 380.0131,
+                "RightMargin": 179.9869,
+                "TopMargin": 787.9297,
+                "BottomMargin": 268.0703,
+                "Tag": 37,
+                "ActionTag": 1816427668,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 80.0
+                },
+                "Name": "CheckBox_Music",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "FontSize": 60,
+                "LabelText": "Music",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "R/Global/calibri.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 254.8719,
+                  "Y": 299.8938
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3982,
+                  "Y": 0.264
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 182.3719,
+                "RightMargin": 312.6281,
+                "TopMargin": 799.6062,
+                "BottomMargin": 263.3938,
+                "Tag": 38,
+                "ActionTag": -469862535,
+                "Size": {
+                  "X": 145.0,
+                  "Y": 73.0
+                },
+                "Name": "Text_1_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 60,
+                "LabelText": "Sound",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "R/Global/calibri.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 248.8832,
+                  "Y": 160.1835
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3889,
+                  "Y": 0.141
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 170.8832,
+                "RightMargin": 313.1168,
+                "TopMargin": 939.3165,
+                "BottomMargin": 123.6835,
+                "Tag": 39,
+                "ActionTag": -1867547007,
+                "Size": {
+                  "X": 156.0,
+                  "Y": 73.0
+                },
+                "Name": "Text_1_0_4",
+                "ctype": "TextObjectData"
+              },
+              {
+                "CheckedState": true,
+                "NormalBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Normal.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Press.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Disable.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Normal.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Disable.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 422.4713,
+                  "Y": 157.1835
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6601,
+                  "Y": 0.1384
+                },
+                "PreSize": {
+                  "X": 0.125,
+                  "Y": 0.0704
+                },
+                "LeftMargin": 382.4713,
+                "RightMargin": 177.5287,
+                "TopMargin": 938.8165,
+                "BottomMargin": 117.1835,
+                "Tag": 40,
+                "ActionTag": 1719456937,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 80.0
+                },
+                "Name": "CheckBox_Sound",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "R/MainScence/title_tmp.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 487,
+                "Scale9Height": 150,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 320.0,
+                  "Y": 900.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7923
+                },
+                "PreSize": {
+                  "X": 0.7609,
+                  "Y": 0.132
+                },
+                "LeftMargin": 76.5,
+                "RightMargin": 76.5,
+                "TopMargin": 161.0,
+                "BottomMargin": 825.0,
+                "Tag": 55,
+                "ActionTag": 751491396,
+                "Size": {
+                  "X": 487.0,
+                  "Y": 150.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1222480430,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_CFG_BG",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

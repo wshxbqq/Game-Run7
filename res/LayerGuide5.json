@@ -1,0 +1,359 @@
+{
+  "ID": "3a2605f4-5a34-4763-913f-002799ca22d9",
+  "Version": "2.2.6.0",
+  "Name": "LayerGuide5",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 58,
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "R/Global/consider.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 640,
+            "Scale9Height": 1136,
+            "TouchEnable": true,
+            "VisibleForFrame": false,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 63,
+            "ActionTag": 166174104,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 92,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 64,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "R/Guide/5/guide_mask_5.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 640,
+                "Scale9Height": 1136,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 20,
+                "ActionTag": -2060362081,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 1136.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "R/Guide/1/g1_title_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 612,
+                "Scale9Height": 348,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 319.0835,
+                  "Y": 933.9774
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4986,
+                  "Y": 0.8222
+                },
+                "PreSize": {
+                  "X": 0.9563,
+                  "Y": 0.3063
+                },
+                "LeftMargin": 13.0835,
+                "RightMargin": 14.9165,
+                "TopMargin": 28.0226,
+                "BottomMargin": 759.9774,
+                "Tag": 65,
+                "Children": [
+                  {
+                    "FontSize": 36,
+                    "LabelText": "同样,在这一横排中有2个球\nxxxxxxxxxxxxxxxxxxxxxxxxx",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 304.557,
+                      "Y": 228.9906
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4976,
+                      "Y": 0.658
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 76.557,
+                    "RightMargin": 79.443,
+                    "TopMargin": 100.0094,
+                    "BottomMargin": 209.9906,
+                    "Tag": 51,
+                    "ActionTag": 1222274758,
+                    "Size": {
+                      "X": 450.0,
+                      "Y": 72.0
+                    },
+                    "Name": "guide_5_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "LabelText": "所以所有2号球都消失了xxxxx\n所以所有2号球都消失了xxxxx",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 306.4205,
+                      "Y": 131.8099
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5007,
+                      "Y": 0.3788
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 59.4205,
+                    "RightMargin": 58.5795,
+                    "TopMargin": 178.1901,
+                    "BottomMargin": 93.8099,
+                    "Tag": 52,
+                    "ActionTag": 1491882848,
+                    "Size": {
+                      "X": 468.0,
+                      "Y": 72.0
+                    },
+                    "Name": "guide_5_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "触摸任意区域继续xxxxxxxxxxxxxxxxxxxxxxxx",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 471.0211,
+                      "Y": 71.8325
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 224,
+                      "G": 224,
+                      "B": 224
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7696,
+                      "Y": 0.2064
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 399.0211,
+                    "RightMargin": 68.9789,
+                    "TopMargin": 267.1675,
+                    "BottomMargin": 62.8325,
+                    "Tag": 53,
+                    "ActionTag": -533694256,
+                    "Size": {
+                      "X": 360.0,
+                      "Y": 18.0
+                    },
+                    "Name": "guide_touch_to_go",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 2062988874,
+                "Size": {
+                  "X": 612.0,
+                  "Y": 348.0
+                },
+                "Name": "Image_G5_Title",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1363910440,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_G5",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

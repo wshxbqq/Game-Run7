@@ -1,0 +1,87 @@
+<Solution>
+  <PropertyGroup Name="Run7" Version="2.2.6.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Folder Name="R">
+          <Folder Name="MainScence">
+            <Image Name="MainScenceBtn.png" />
+            <Image Name="MainScenceCFG.png" />
+            <PlistParticleFile Name="NewParticle_1.plist" />
+            <PlistParticleFile Name="Spiral.plist" />
+            <Image Name="c_bg.png" />
+            <Image Name="mainBG.jpg" />
+            <Image Name="title_tmp.png" />
+          </Folder>
+          <Folder Name="Global">
+            <TTF Name="calibri.ttf" />
+            <Image Name="grid.png" />
+            <Image Name="w1.png" />
+            <Image Name="cfgPanel.png" />
+            <Image Name="MainScenceBtn_1.png" />
+            <Image Name="MainScenceBtn_2.png" />
+            <Image Name="MainScenceBtn_3.png" />
+            <Image Name="MainScenceBtn_4.png" />
+            <Image Name="gameover.png" />
+            <PlistParticleFile Name="Untitled.plist" />
+            <Image Name="consider.png" />
+            <Image Name="gameOverTitle.png" />
+            <Image Name="cocos_ico.png" />
+          </Folder>
+          <Folder Name="Guide">
+            <Folder Name="1">
+              <Image Name="g1_title.png" />
+              <Image Name="g1_title_bg.png" />
+              <Image Name="g1_title_bg_sm.png" />
+            </Folder>
+            <Folder Name="2">
+              <Image Name="guide_mask_2.png" />
+            </Folder>
+            <Folder Name="3">
+              <Image Name="g3_title.png" />
+              <Image Name="guide_mask_3.png" />
+            </Folder>
+            <Folder Name="4">
+              <Image Name="g4_title.png" />
+              <Image Name="guide_mask_4.png" />
+            </Folder>
+            <Folder Name="5">
+              <Image Name="g5_title.png" />
+              <Image Name="guide_mask_5.png" />
+            </Folder>
+            <Folder Name="6">
+              <Image Name="guide_mask_6.png" />
+              <Image Name="g6_title.png" />
+            </Folder>
+            <Folder Name="7">
+              <Image Name="guide_mask_7.png" />
+              <Image Name="g7_title.png" />
+            </Folder>
+            <Folder Name="8">
+              <Image Name="g8_title.png" />
+              <Image Name="guide_mask_8.png" />
+            </Folder>
+            <Folder Name="9">
+              <Image Name="g9_title.png" />
+            </Folder>
+          </Folder>
+        </Folder>
+        <Project Name="GameScene.csd" Type="Scene" />
+        <Image Name="cfgPanel.png" />
+        <Project Name="LayerCfgPanel.csd" Type="Layer" />
+        <Project Name="LayerCfgPanel1.csd" Type="Layer" />
+        <Project Name="GameOver.csd" Type="Scene" />
+        <Project Name="LayerGuide1.csd" Type="Layer" />
+        <Project Name="LayerGuide2.csd" Type="Layer" />
+        <Project Name="LayerGuide3.csd" Type="Layer" />
+        <Project Name="LayerGuide4.csd" Type="Layer" />
+        <Project Name="LayerGuide5.csd" Type="Layer" />
+        <Project Name="LayerGuide6.csd" Type="Layer" />
+        <Project Name="LayerGuide7.csd" Type="Layer" />
+        <Project Name="LayerGuide8.csd" Type="Layer" />
+        <Project Name="LayerGuide9.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

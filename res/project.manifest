@@ -1,0 +1,12 @@
+{
+    "packageUrl" : "http://staticbin.sinaapp.com/static/run7/package",
+    "remoteManifestUrl" : "http://staticbin.sinaapp.com/static/run7/project.manifest",
+    "remoteVersionUrl" : "http://staticbin.sinaapp.com/static/run7/version.manifest",
+    "version" : "1.0.0",
+    "groupVersions" : {
+        "1" : "1.0.0"
+    },
+    "engineVersion" : "3.0 rc0",
+    "searchPaths" : [
+    ]
+}

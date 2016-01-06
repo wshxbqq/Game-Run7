@@ -1,0 +1,304 @@
+{
+  "ID": "d8a341f1-fc01-4281-871e-ac19290e7613",
+  "Version": "2.2.6.0",
+  "Name": "LayerGuide2",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 32,
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "R/Global/consider.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 640,
+            "Scale9Height": 1136,
+            "TouchEnable": true,
+            "VisibleForFrame": false,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 33,
+            "ActionTag": 1895496620,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_2",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 34,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "R/Guide/2/guide_mask_2.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 640,
+                "Scale9Height": 1136,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 23,
+                "ActionTag": -1777444181,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 1136.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "R/Guide/1/g1_title_bg_sm.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 598,
+                "Scale9Height": 224,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 314.2004,
+                  "Y": 971.6871
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4909,
+                  "Y": 0.8554
+                },
+                "PreSize": {
+                  "X": 0.9344,
+                  "Y": 0.1972
+                },
+                "LeftMargin": 15.2004,
+                "RightMargin": 26.7996,
+                "TopMargin": 52.313,
+                "BottomMargin": 859.6871,
+                "Tag": 35,
+                "Children": [
+                  {
+                    "FontSize": 48,
+                    "LabelText": "比如试试这一列xxxxxx\n比如试试这一列xxxxxx",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 299.0624,
+                      "Y": 117.5723
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5001,
+                      "Y": 0.5249
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 131.0624,
+                    "RightMargin": 130.9376,
+                    "TopMargin": 82.4277,
+                    "BottomMargin": 93.5723,
+                    "Tag": 45,
+                    "ActionTag": -1530366708,
+                    "Size": {
+                      "X": 480.0,
+                      "Y": 96.0
+                    },
+                    "Name": "guide_2_1",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -894530133,
+                "Size": {
+                  "X": 598.0,
+                  "Y": 224.0
+                },
+                "Name": "Image_G2_Title",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 269.5266,
+                  "Y": 137.2551
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4211,
+                  "Y": 0.1208
+                },
+                "PreSize": {
+                  "X": 0.1563,
+                  "Y": 0.537
+                },
+                "LeftMargin": 269.5266,
+                "RightMargin": 270.4734,
+                "TopMargin": 388.7449,
+                "BottomMargin": 137.2551,
+                "Tag": 24,
+                "ActionTag": -107021970,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 610.0
+                },
+                "Name": "Panel_Touch_Area_2",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -2008689446,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_G2",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

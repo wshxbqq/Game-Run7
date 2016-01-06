@@ -1,0 +1,324 @@
+{
+  "ID": "81dfe6ad-e2a1-43e4-9444-ccdc08f55abf",
+  "Version": "2.2.6.0",
+  "Name": "LayerGuide9",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 81,
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "R/Global/consider.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 640,
+            "Scale9Height": 1136,
+            "TouchEnable": true,
+            "VisibleForFrame": false,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 82,
+            "ActionTag": 38775237,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_9",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 92,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 83,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "R/Guide/1/g1_title_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 612,
+                "Scale9Height": 348,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 321.0658,
+                  "Y": 904.4568
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5017,
+                  "Y": 0.7962
+                },
+                "PreSize": {
+                  "X": 0.9563,
+                  "Y": 0.3063
+                },
+                "LeftMargin": 15.0658,
+                "RightMargin": 12.9342,
+                "TopMargin": 57.5432,
+                "BottomMargin": 730.4568,
+                "Tag": 84,
+                "Children": [
+                  {
+                    "FontSize": 40,
+                    "LabelText": "在格子被填满前xxxxxxxxx\n在格子被填满前xxxxxxxxx",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 296.6802,
+                      "Y": 238.1838
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4848,
+                      "Y": 0.6844
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 156.6802,
+                    "RightMargin": 175.3198,
+                    "TopMargin": 89.8162,
+                    "BottomMargin": 218.1838,
+                    "Tag": 95,
+                    "ActionTag": 885145032,
+                    "Size": {
+                      "X": 460.0,
+                      "Y": 80.0
+                    },
+                    "Name": "guide_9_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 40,
+                    "LabelText": "尽可能获得高分吧！\nxxxxxxxxxxxxxxxxxxxxxxxxx",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 306.6834,
+                      "Y": 154.2155
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5011,
+                      "Y": 0.4431
+                    },
+                    "PreSize": {
+                      "X": 1.3725,
+                      "Y": 0.1149
+                    },
+                    "LeftMargin": -113.3166,
+                    "RightMargin": -114.6834,
+                    "TopMargin": 173.7845,
+                    "BottomMargin": 134.2155,
+                    "Tag": 96,
+                    "ActionTag": 1565298115,
+                    "Size": {
+                      "X": 500.0,
+                      "Y": 80.0
+                    },
+                    "Name": "guide_9_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "触摸任意区域继续xxxxxxxxxxxxxxxxxxxxxxxx",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 471.0211,
+                      "Y": 71.8325
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 224,
+                      "G": 224,
+                      "B": 224
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7696,
+                      "Y": 0.2064
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 399.0211,
+                    "RightMargin": 68.9789,
+                    "TopMargin": 267.1675,
+                    "BottomMargin": 62.8325,
+                    "Tag": 97,
+                    "ActionTag": 1697556367,
+                    "Size": {
+                      "X": 360.0,
+                      "Y": 18.0
+                    },
+                    "Name": "guide_touch_to_go",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -243562426,
+                "Size": {
+                  "X": 612.0,
+                  "Y": 348.0
+                },
+                "Name": "Image_G9_Title",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -49108551,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_G9",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,417 @@
+{
+  "ID": "a86586b9-5e3f-4556-a55a-ed796c9d220c",
+  "Version": "2.2.6.0",
+  "Name": "LayerGuide1",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 27,
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "R/Global/consider.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 640,
+            "Scale9Height": 1136,
+            "TouchEnable": true,
+            "VisibleForFrame": false,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 28,
+            "ActionTag": 958347675,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 92,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 29,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "R/Guide/1/g1_title_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 612,
+                "Scale9Height": 348,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 319.0835,
+                  "Y": 933.9774
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4986,
+                  "Y": 0.8222
+                },
+                "PreSize": {
+                  "X": 0.9563,
+                  "Y": 0.3063
+                },
+                "LeftMargin": 13.0835,
+                "RightMargin": 14.9165,
+                "TopMargin": 28.0226,
+                "BottomMargin": 759.9774,
+                "Tag": 31,
+                "Children": [
+                  {
+                    "FontSize": 35,
+                    "LabelText": "下面是一个xxxxxxx",
+                    "HorizontalAlignmentType": "HT_Right",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 286.7112,
+                      "Y": 247.9832
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4685,
+                      "Y": 0.7126
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -14.2888,
+                    "RightMargin": 325.2888,
+                    "TopMargin": 82.5168,
+                    "BottomMargin": 230.4832,
+                    "Tag": 24,
+                    "ActionTag": 1886089030,
+                    "Size": {
+                      "X": 301.0,
+                      "Y": 35.0
+                    },
+                    "Name": "guide_1_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 32,
+                    "LabelText": "你可以把小球放进其中任何一列\nxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 306.595,
+                      "Y": 151.7105
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.501,
+                      "Y": 0.4359
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 82.595,
+                    "RightMargin": 81.405,
+                    "TopMargin": 179.7895,
+                    "BottomMargin": 135.2105,
+                    "Tag": 25,
+                    "ActionTag": -2087842104,
+                    "Size": {
+                      "X": 448.0,
+                      "Y": 66.0
+                    },
+                    "Name": "guide_1_3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 50,
+                    "LabelText": "7x7",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 337.141,
+                      "Y": 247.0864
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5509,
+                      "Y": 0.71
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 299.641,
+                    "RightMargin": 237.359,
+                    "TopMargin": 75.9136,
+                    "BottomMargin": 222.0864,
+                    "Tag": 26,
+                    "ActionTag": -162060127,
+                    "Size": {
+                      "X": 75.0,
+                      "Y": 50.0
+                    },
+                    "Name": "Text_1_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 35,
+                    "LabelText": "的方格xxxxxxxxxxx",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 393.9225,
+                      "Y": 242.9458
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6437,
+                      "Y": 0.6981
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 393.9225,
+                    "RightMargin": -84.9225,
+                    "TopMargin": 87.5542,
+                    "BottomMargin": 225.4458,
+                    "Tag": 27,
+                    "ActionTag": -1957694328,
+                    "Size": {
+                      "X": 303.0,
+                      "Y": 35.0
+                    },
+                    "Name": "guide_1_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "触摸任意区域继续xxxxxxxxxxxxxxxxxx",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 471.0211,
+                      "Y": 71.8325
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 224,
+                      "G": 224,
+                      "B": 224
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7696,
+                      "Y": 0.2064
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 399.0211,
+                    "RightMargin": 68.9789,
+                    "TopMargin": 267.1675,
+                    "BottomMargin": 62.8325,
+                    "Tag": 46,
+                    "ActionTag": -827882130,
+                    "Size": {
+                      "X": 306.0,
+                      "Y": 18.0
+                    },
+                    "Name": "guide_touch_to_go",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -748104460,
+                "Size": {
+                  "X": 612.0,
+                  "Y": 348.0
+                },
+                "Name": "Image_G1_Title",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1529922596,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_G1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

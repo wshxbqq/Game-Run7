@@ -1,0 +1,694 @@
+{
+  "ID": "07795baa-c64d-408d-9b60-1a03f64c1939",
+  "Version": "2.2.6.0",
+  "Name": "GameOver",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 47,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "R/MainScence/mainBG.jpg",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 640,
+            "Scale9Height": 1136,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 48,
+            "ActionTag": -1323184224,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_Color",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "R/Global/Untitled.plist",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 640.0,
+            "TopMargin": 1136.0,
+            "Tag": 44,
+            "ActionTag": 891603235,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Particle_1",
+            "ctype": "ParticleObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 49,
+            "Children": [
+              {
+                "FontSize": 72,
+                "LabelText": "Score",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "R/Global/calibri.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 327.9329,
+                  "Y": 787.5055
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5124,
+                  "Y": 0.6932
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 246.9329,
+                "RightMargin": 231.0671,
+                "TopMargin": 304.4945,
+                "BottomMargin": 743.5055,
+                "Tag": 52,
+                "ActionTag": -771274214,
+                "Size": {
+                  "X": 162.0,
+                  "Y": 88.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 100,
+                "LabelText": "123,123,123",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "R/Global/calibri.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 323.8668,
+                  "Y": 675.2244
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 87,
+                  "B": 111
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.506,
+                  "Y": 0.5944
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 69.3668,
+                "RightMargin": 61.6332,
+                "TopMargin": 399.7756,
+                "BottomMargin": 614.2244,
+                "Tag": 53,
+                "ActionTag": 159953320,
+                "Size": {
+                  "X": 509.0,
+                  "Y": 122.0
+                },
+                "Name": "Text_Score",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 48,
+                "LabelText": "Best:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "R/Global/calibri.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 258.8638,
+                  "Y": 541.5907
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4045,
+                  "Y": 0.4768
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 209.8638,
+                "RightMargin": 332.1362,
+                "TopMargin": 564.9093,
+                "BottomMargin": 512.0907,
+                "Tag": 54,
+                "ActionTag": 1180403954,
+                "Size": {
+                  "X": 98.0,
+                  "Y": 59.0
+                },
+                "Name": "Text_1_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 48,
+                "LabelText": "Mode:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "R/Global/calibri.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 245.5409,
+                  "Y": 452.9708
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3837,
+                  "Y": 0.3987
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 181.5409,
+                "RightMargin": 330.4591,
+                "TopMargin": 653.5292,
+                "BottomMargin": 423.4708,
+                "Tag": 55,
+                "ActionTag": -1335891545,
+                "Size": {
+                  "X": 128.0,
+                  "Y": 59.0
+                },
+                "Name": "Text_1_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 40,
+                "ButtonText": "Again",
+                "TextColor": {},
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "R/Global/MainScenceBtn_2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 320,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 333.0,
+                  "Y": 353.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5203,
+                  "Y": 0.3107
+                },
+                "PreSize": {
+                  "X": 0.5469,
+                  "Y": 0.0704
+                },
+                "LeftMargin": 158.0,
+                "RightMargin": 132.0,
+                "TopMargin": 743.0,
+                "BottomMargin": 313.0,
+                "Tag": 56,
+                "ActionTag": -1594901570,
+                "Size": {
+                  "X": 350.0,
+                  "Y": 80.0
+                },
+                "Name": "Button_Again",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 40,
+                "ButtonText": "Lobby",
+                "TextColor": {},
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "R/Global/MainScenceBtn_3.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 320,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 333.0,
+                  "Y": 229.8949
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5203,
+                  "Y": 0.2024
+                },
+                "PreSize": {
+                  "X": 0.5469,
+                  "Y": 0.0704
+                },
+                "LeftMargin": 158.0,
+                "RightMargin": 132.0,
+                "TopMargin": 866.1051,
+                "BottomMargin": 189.8949,
+                "Tag": 57,
+                "ActionTag": 275089205,
+                "Size": {
+                  "X": 350.0,
+                  "Y": 80.0
+                },
+                "Name": "Button_Lobby",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 48,
+                "LabelText": "123,123,123",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "R/Global/calibri.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 447.8453,
+                  "Y": 541.0546
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6998,
+                  "Y": 0.4763
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 327.8453,
+                "RightMargin": 72.1547,
+                "TopMargin": 565.4454,
+                "BottomMargin": 511.5546,
+                "Tag": 60,
+                "ActionTag": 1935250963,
+                "Size": {
+                  "X": 240.0,
+                  "Y": 59.0
+                },
+                "Name": "Text_Best",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 48,
+                "LabelText": "EasyEasyEasy",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "R/Global/calibri.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 460.9951,
+                  "Y": 453.3796
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7203,
+                  "Y": 0.3991
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 331.9951,
+                "RightMargin": 50.0049,
+                "TopMargin": 653.1204,
+                "BottomMargin": 423.8796,
+                "Tag": 61,
+                "ActionTag": 1685109664,
+                "Size": {
+                  "X": 258.0,
+                  "Y": 59.0
+                },
+                "Name": "Text_Mode",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "R/Global/gameOverTitle.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 601,
+                "Scale9Height": 152,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 323.2886,
+                  "Y": 953.7711
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5051,
+                  "Y": 0.8396
+                },
+                "PreSize": {
+                  "X": 0.9391,
+                  "Y": 0.1338
+                },
+                "LeftMargin": 22.7886,
+                "RightMargin": 16.2114,
+                "TopMargin": 106.2289,
+                "BottomMargin": 877.7711,
+                "Tag": 46,
+                "ActionTag": 621862469,
+                "Size": {
+                  "X": 601.0,
+                  "Y": 152.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 40,
+                "ButtonText": "Share",
+                "TextColor": {},
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "R/Global/MainScenceBtn_1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 320,
+                "Scale9Height": 58,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 333.0,
+                  "Y": 106.0276
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5203,
+                  "Y": 0.0933
+                },
+                "PreSize": {
+                  "X": 0.5469,
+                  "Y": 0.0704
+                },
+                "LeftMargin": 158.0,
+                "RightMargin": 132.0,
+                "TopMargin": 989.9724,
+                "BottomMargin": 66.0276,
+                "Tag": 62,
+                "ActionTag": -2832066,
+                "Size": {
+                  "X": 350.0,
+                  "Y": 80.0
+                },
+                "Name": "Button_Share",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1347160068,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_BG",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}
